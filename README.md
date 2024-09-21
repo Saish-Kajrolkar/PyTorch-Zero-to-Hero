@@ -1,1 +1,1 @@
-This Repo is created by me to get my hands dirty on PyTorch for Computer Vision. This is coded by me while learning from YouTube Video "PyTorch for Deep Learning and Machine Learning" on freeCodeCamp YouTube channel by Daniel Bourke.
+This Repo is created by me to get my hands dirty on PyTorch for Computer Vision. This is coded by me while learning from 26 hours+ YouTube Video "PyTorch for Deep Learning and Machine Learning" on freeCodeCamp YouTube channel by Daniel Bourke.
